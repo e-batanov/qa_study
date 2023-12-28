@@ -5,3 +5,4 @@ __pycache__/
 .idea/
 venv/
 common.py
+.pytest_cache

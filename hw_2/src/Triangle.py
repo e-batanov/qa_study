@@ -1,5 +1,5 @@
 from math import sqrt
-from src.Figure import Figure
+from hw_2.src.Figure import Figure
 
 
 class Triangle(Figure):
